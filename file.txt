@@ -1,9 +1,10 @@
-Some changes to the file has been made.
-W
-a
-i
-t
-i
-n
-g
-!
+main()
+{
+	int var1;
+	int var2;
+
+	for (var1=0;var<100;var++)
+	{
+		var2 = var1+3;
+	}
+}
